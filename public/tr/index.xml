@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MaliyetAnaliz</title>
+    <link>http://localhost:33344/tr/</link>
+    <description>Recent content on MaliyetAnaliz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <lastBuildDate>Sun, 02 Jan 2022 08:00:30 +0300</lastBuildDate>
+    <atom:link href="http://localhost:33344/tr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go বেসিক</title>
+      <link>http://localhost:33344/tr/notes/go/basic/_index.bn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/basic/_index.bn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:33344/tr/notes/go/basic/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/basic/introduction/</guid>
+      <description> Hello World A sample go program is show here.&#xA;package main import &amp;#34;fmt&amp;#34; func main() { message := greetMe(&amp;#34;world&amp;#34;) fmt.Println(message) } func greetMe(name string) string { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34; } Run the program as below:&#xA;$ go run hello.go Variables Normal Declaration:&#xA;var msg string msg = &amp;#34;Hello&amp;#34; Shortcut:&#xA;msg := &amp;#34;Hello&amp;#34; Constants const Phi = 1.618 </description>
+    </item>
+    <item>
+      <title>Basic Types</title>
+      <link>http://localhost:33344/tr/notes/go/basic/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/basic/types/</guid>
+      <description>Strings str := &amp;#34;Hello&amp;#34; Multiline string&#xA;str := `Multiline string` Numbers Typical types&#xA;num := 3 // int num := 3. // float64 num := 3 + 4i // complex128 num := byte(&amp;#39;a&amp;#39;) // byte (alias for uint8) Other Types&#xA;var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays // var numbers [5]int numbers := [...]int{0, 0, 0, 0, 0} Pointers func main () { b := *getPointer() fmt.</description>
+    </item>
+    <item>
+      <title>অ্যাডভান্সড</title>
+      <link>http://localhost:33344/tr/notes/go/advanced/_index.bn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/advanced/_index.bn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flow Control</title>
+      <link>http://localhost:33344/tr/notes/go/basic/flow-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/basic/flow-control/</guid>
+      <description>Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) Switch switch day { case &amp;#34;sunday&amp;#34;: // cases don&amp;#39;t &amp;#34;fall through&amp;#34; by default! fallthrough case &amp;#34;saturday&amp;#34;: rest() default: work() } Loop for count := 0; count &amp;lt;= 10; count++ { fmt.Println(&amp;#34;My counter is at&amp;#34;, count) } entry := []string{&amp;#34;Jack&amp;#34;,&amp;#34;John&amp;#34;,&amp;#34;Jones&amp;#34;} for i, val := range entry { fmt.</description>
+    </item>
+    <item>
+      <title>File Manipulation</title>
+      <link>http://localhost:33344/tr/notes/go/advanced/files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/advanced/files/</guid>
+      <description> Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) </description>
+    </item>
+    <item>
+      <title>Bash Variables</title>
+      <link>http://localhost:33344/tr/notes/bash/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/bash/basic/</guid>
+      <description> Variable NAME=&amp;#34;John&amp;#34; echo $NAME echo &amp;#34;$NAME&amp;#34; echo &amp;#34;${NAME} Condition if [[ -z &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is empty&amp;#34; elif [[ -n &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is not empty&amp;#34; fi </description>
+    </item>
+    <item>
+      <title>Apartman-Site Yöneticileri</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</guid>
+      <description>Apartman ve tesisiniz ile ilgili bakım, onarım, tamirat işleri için piyasadaki en uygun fiyatları bulun.</description>
+    </item>
+    <item>
+      <title>Arsa Sahipleri</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/arsa-sahipleri/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/arsa-sahipleri/</guid>
+      <description>Hayalimdeki taslak evi profesyoneller ile geliştirip arsama nasıl uygularım? Nereye ne kadar harcama yapmam gerekir? Alternatif tasarımların bütçe, yapım süresi, fonksiyonlar bakımından karşılaştırması ve daha fazlası&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Belediyeler</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/belediyeler/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/belediyeler/</guid>
+      <description>Proje bütçenizi kurum birim fiyatları ile belirleyin. Piyasa birim fiyatları ile karşılaştırmalar yaparak keşif tutarını hassas biçimde belirleyin. Proje teknik şartnamesi, mahal listeleri, keşif tablolarını hazırlayın.</description>
+    </item>
+    <item>
+      <title>Eğitim Kurumları</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/egitim_kurumlari/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/egitim_kurumlari/</guid>
+      <description>İnşaat yatırımlarınız için bütçe hazırlayın, fiyatları değerlendirerek uygun malzeme ve yapım yöntemi seçimlerini yapın.</description>
+    </item>
+    <item>
+      <title>İhaleciler</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/ihaleciler/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/ihaleciler/</guid>
+      <description>Hangi tür projeler nerede, ne kadar bütçe ile tamamlanır. Bölgelere göre malzeme, işçilik, makine-ekipman fiyatları tedarik süreleri, alternatifler, karşılaştırmalı analizler ve daha fazlası&amp;hellip;</description>
+    </item>
+    <item>
+      <title>İnşaat Firmaları</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/insaat-firmalari/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/insaat-firmalari/</guid>
+      <description>Proje sahiplerine tekliflerinizi gönderin, mevcut projeleriniz için malzeme, işçilik, makine-ekipman kaynakları için en uygun fiyatları bulun.</description>
+    </item>
+    <item>
+      <title>Kamu Kurumları</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/kamu-kurumlari/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/kamu-kurumlari/</guid>
+      <description>Proje bütçenizi kurum birim fiyatları ile belirleyin. Piyasa birim fiyatları ile karşılaştırmalar yaparak keşif tutarını hassas biçimde belirleyin. Proje teknik şartnamesi, mahal listeleri, keşif tablolarını hazırlayın.</description>
+    </item>
+    <item>
+      <title>Mimarlar, Mühendisler</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/mimarlar-muhendisler/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/mimarlar-muhendisler/</guid>
+      <description>Proje bütçesini belirleyin. Projesine uygun seçtiğiniz malzemeler için güncel piyasa fiyatlarını kontrol edin, alternatif malzeme ve yapım yöntemlerini değerlendirin.</description>
+    </item>
+    <item>
+      <title>Sanayiciler</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/sanayiciler/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/sanayiciler/</guid>
+      <description>İhracat kapasitesini artırmak için fabrikamı genişletmek için ne kadar bütçe ayırmalıyım? Çatıya güneş paneli koymanın maliyeti ne kadar? Karşılaştırmalı teklif analizleri, yüklenici seçimi değerlendirme tabloları, sözleşme taslağı hazırlama, iş programı ve nakit akış tablosu ve daha fazlası&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Yatırımcılar</title>
+      <link>http://localhost:33344/tr/posts/recent-posts/yatirimcilar/</link>
+      <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
+      <guid>http://localhost:33344/tr/posts/recent-posts/yatirimcilar/</guid>
+      <description>Hangi tür projeleri nerede, ne kadar bütçe ile tamamlayabilirsiniz. Bölgelere göre malzeme, işçilik, makine-ekipman fiyatları tedarik süreleri, alternatifler, karşılaştırmalı analizler ve daha fazlası.</description>
+    </item>
+    <item>
+      <title>Go এর নোট সমূহ</title>
+      <link>http://localhost:33344/tr/notes/go/_index.bn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/go/_index.bn/</guid>
+      <description>Go Notes </description>
+    </item>
+    <item>
+      <title>নোট সমূহ</title>
+      <link>http://localhost:33344/tr/notes/_index.bn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/_index.bn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ব্যাশের নোট সমূহ</title>
+      <link>http://localhost:33344/tr/notes/bash/_index.bn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33344/tr/notes/bash/_index.bn/</guid>
+      <description>Bash Notes </description>
+    </item>
+  </channel>
+</rss>

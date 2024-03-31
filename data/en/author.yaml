@@ -1,0 +1,21 @@
+# some information about you
+name: "Maliyet Analiz"
+nickname: "MaliyetAnaliz"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome to "
+image: "/images/site/maliyetanaliz_icon.svg"
+# background: https://source.unsplash.com/1920x1080/?engineering&construction&bridge&highway
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "info@maliyetanaliz.com"
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - Best prices for resources in your project
+  - Materials, labor, machinery and equipment
+  - Construction procurement easier and more efficient
+  - Invite suppliers to bid on your projects
+  - Get the best prices for items in your project
+

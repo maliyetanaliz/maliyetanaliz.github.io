@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Start
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    # name: Start
+    url: "https://maliyetanaliz.com/accounts/login/"
+    # location: Kayseri, Türkiye
+    # company overview
+    # overview: 
+  positions:
+  - designation: 
+    # start: 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end:   
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - <a href="https://maliyetanaliz.com/accounts/signup/">Free sign up</a> or <a href="https://maliyetanaliz.com/accounts/login/">login</a>
+    - If you encountered any errors in this step, report it on <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/1-kayit-ve-giris-islemleri/34">forum page</a> for resolution.
+
+- company:
+    name: Add your first project
+    url: "https://maliyetanaliz.com/mzim/projects/add/"
+    # location: Adana, Türkiye
+    # overview: MaliyetAnaliz.com desteği ile tamamlanan ilk ihale hazırlık paketi.
+  positions:
+  - designation: Add a project
+    # start: Nisan 2008
+    # end:   
+    responsibilities:
+    - If you encountered any errors in this step, report it on <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/2-proje-ekleme-islemleri/35">forum page</a> for resolution.
+
+
+- company:
+    # name:  Products/Services
+    url:  https://maliyetanaliz.com/mzim/items/import/
+    # location: Kayseri, Türkiye
+    # overview: Optimall Alışveriş Merkezi projesinde MaliyetAnaliz alt yapısı kullanıldı.
+  positions:
+  - designation: Add products and work items in your project.
+    # start: Haz 2008
+    # end: Nis 2010
+    responsibilities:
+    - <a href="https://maliyetanaliz.com/mzim/items/import/">Click</a> to open the work items bulk upload area.
+    - Get a copy of the <a href="https://docs.google.com/spreadsheets/d/1Bss24jDpbCuIlLB3LX4fc_xAJKK7iinPtQ5AvOtUnRY/edit?usp=sharing">MaliyetAnaliz data transfer template</a> using the "Make a copy" button on the file menu. 
+    - Update the information in the "is_kalemleri" (work items) worksheet in the MaliyetAnaliz data transfer template.
+    - Copy the updated information and paste it into the bulk upload area.
+    - If you encountered any errors in this step, report it on <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/3-urun-ve-is-kalemleri-ekleme-islemleri/36">forum page</a> for resolution.
+
+- company:
+    name: 
+    url:  https://maliyetanaliz.com/mzim/items/
+    # location: Kayseri, Türkiye
+    # overview: Optimall Alışveriş Merkezi projesinde MaliyetAnaliz alt yapısı kullanıldı.
+  positions:
+  - designation: Evaluate offers from suppliers.
+    # start: Haz 2008
+    # end: Nis 2010
+    responsibilities:
+    - Using the enhanced menu system and user interface find the best prices for materials, labor, machinery and equipment resources in your construction project.
+    # - Using the enhanced menu system and user interface; group, compare, mark, classify offers from suppliers at all stages of your project.  
+    # - Maliyetanaliz veri ekleme şablonu çalışma kitabında bulunan iş kalemleri çalışma sayfasındaki bilgileri güncelle.
+    # - Güncellediğin bilgileri kopyala ve çoklu ekleme alanına yapıştır.
+    # - Bu adımda bir hata ile karşılaştıysan çözülmesi için <a href="https://forum.maliyetanaliz.com/">forum sayfasında bildir</a>
+    

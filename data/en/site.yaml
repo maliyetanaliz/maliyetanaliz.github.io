@@ -1,0 +1,36 @@
+# Copyright Notice
+copyright: © 2022 Copyright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "Content provided by MaliyetAnaliz. All rights reserved."
+
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: MaliyetAnaliz intro website.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Home
+#   url: https://maliyetanaliz.com/
+
+
+
+# Specify OpenGraph Headers
+openGraph:
+  title: MaliyetAnaliz.com
+  type: website
+  description: Right address, precise calculations.
+  image: /images/site/maliyetanaliz_icon.png
+  url: https://maliyetanaliz.com/en
+
+
+
+params:
+  # If you want to use different country flag for a language, specify them here.
+  flagOverwrites:
+  - languageCode: en
+    countryCode: us
+
+  background:
+    image: /images/site/intro.jpg

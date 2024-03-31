@@ -1,0 +1,19 @@
+# some information about you
+name: "."
+nickname: ""
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "MaliyetAnaliz'e hoş geldiniz"
+image: "/images/site/maliyetanaliz_icon.svg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "info@maliyetanaliz.com"
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - İnşaat projeniz ile ilgili en iyi fiyatları bulun
+  - Malzeme, işçilik, makine ve ekipman
+  - Güvenli ve rekabetçi ihale süreçleri
+  - Teklif vermeleri için tedarikçileri davet edin
+  - Alternatifleri karşılaştırıp en uygunu seçin
+

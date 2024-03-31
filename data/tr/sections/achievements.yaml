@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Nasıl Çalışır?
+  id: achievements
+  enable: false
+  weight: 8
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Nasıl Çalışır?
+  image: /static/images/achievements/mz_how_it_works.png
+  summary: Her projenin bir MaliyetAnaliz'i vardır.
+- title: İçindekiler
+  image: /static/images/achievements/mz_what.jpg
+  summary: Doğru hesap, doğru adres.

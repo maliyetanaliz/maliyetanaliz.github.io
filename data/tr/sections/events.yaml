@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Başla
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    # name: Başla
+    url: <a href="https://maliyetanaliz.com/accounts/signup/">Ücretsiz üye ol</a> ya da <a href="https://maliyetanaliz.com/accounts/login/">giriş yap</a>
+    # location: Kayseri, Türkiye
+    # company overview
+    # overview: 
+  positions:
+  - designation:  
+    # start: 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end:   
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - <a href="https://maliyetanaliz.com/accounts/signup/">Ücretsiz üye ol</a> ya da <a href="https://maliyetanaliz.com/accounts/login/">giriş yap</a>
+    - Bu adımda bir hata ile karşılaştıysan çözülmesi için <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/1-kayit-ve-giris-islemleri/34">forum sayfasında bildir</a>
+    # - İstersen Google ya da LinkedIn hesaplarını kullanarak üye olabilirsin.
+
+- company:
+    name: İlk projeni ekle
+    url: "https://maliyetanaliz.com/mzim/projects/add/"
+    # location: Adana, Türkiye
+    # overview: MaliyetAnaliz.com desteği ile tamamlanan ilk ihale hazırlık paketi.
+  positions:
+  - designation: Projeni ekle
+    # start: Nisan 2008
+    # end:   
+    responsibilities:
+    - Bu adımda bir hata ile karşılaştıysan çözülmesi için <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/2-proje-ekleme-islemleri/35">forum sayfasında bildir</a>
+
+- company:
+    name:  Ürünler/Hizmetler
+    url:  https://maliyetanaliz.com/mzim/items/import/
+    # location: Kayseri, Türkiye
+    # overview: Optimall Alışveriş Merkezi projesinde MaliyetAnaliz alt yapısı kullanıldı.
+  positions:
+  - designation: Projende yer alan ürün ve iş kalemlerini ekle
+    # start: Haz 2008
+    # end: Nis 2010
+    responsibilities:
+    - İş kalemleri çoklu ekleme alanını açmak için <a href="https://maliyetanaliz.com/mzim/items/import/">tıkla</a>.
+    - <a href="https://docs.google.com/spreadsheets/d/1Bss24jDpbCuIlLB3LX4fc_xAJKK7iinPtQ5AvOtUnRY/edit?usp=sharing">MaliyetAnaliz veri ekleme şablonu</a> çalışma kitabını dosya menüsünü kullanarak kendi hesabına yeni bir adla kopyala. 
+    - Maliyetanaliz veri ekleme şablonu çalışma kitabında bulunan iş kalemleri çalışma sayfasındaki bilgileri güncelle.
+    - Güncellediğin bilgileri kopyala ve çoklu ekleme alanına yapıştır.
+    - Bu adımda bir hata ile karşılaştıysan çözülmesi için <a href="https://forum.maliyetanaliz.com/c/baslangic-adimlari/3-urun-ve-is-kalemleri-ekleme-islemleri/36">forum sayfasında bildir</a>
+    
+- company:
+    name:  
+    url:  https://maliyetanaliz.com/mzim/items/
+    # location: Kayseri, Türkiye
+    # overview: Optimall Alışveriş Merkezi projesinde MaliyetAnaliz alt yapısı kullanıldı.
+  positions:
+  - designation: Tedarikçilerden gelen teklifleri değerledir
+    # start: Haz 2008
+    # end: Nis 2010
+    responsibilities:
+    - Gelişmiş menü sistemi ve kullanıcı arayüzünü kullanarak inşaat projeniz ile ilgili malzeme, işçilik, makine ve ekipman kaynakları için en uygun fiyatları bul.
+    # - Maliyetanaliz veri ekleme şablonu çalışma kitabında bulunan iş kalemleri çalışma sayfasındaki bilgileri güncelle.
+    # - Güncellediğin bilgileri kopyala ve çoklu ekleme alanına yapıştır.
+    # - Bu adımda bir hata ile karşılaştıysan çözülmesi için <a href="https://forum.maliyetanaliz.com/">forum sayfasında bildir</a>
+    
