@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yardım on MaliyetAnaliz</title>
-    <link>http://localhost:41562/tr/posts/</link>
+    <link>http://localhost:32816/tr/posts/</link>
     <description>Recent content in Yardım on MaliyetAnaliz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Sun, 02 Jan 2022 08:00:30 +0300</lastBuildDate>
-    <atom:link href="http://localhost:41562/tr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:32816/tr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apartman-Site Yöneticileri</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/apartman-site-y%C3%B6neticileri/</guid>
       <description>Apartman ve tesisiniz ile ilgili bakım, onarım, tamirat işleri için piyasadaki en uygun fiyatları bulun.</description>
     </item>
     <item>
       <title>Arsa Sahipleri</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/arsa-sahipleri/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/arsa-sahipleri/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/arsa-sahipleri/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/arsa-sahipleri/</guid>
       <description>Hayalimdeki taslak evi profesyoneller ile geliştirip arsama nasıl uygularım? Nereye ne kadar harcama yapmam gerekir? Alternatif tasarımların bütçe, yapım süresi, fonksiyonlar bakımından karşılaştırması ve daha fazlası&amp;hellip;</description>
     </item>
     <item>
       <title>Belediyeler</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/belediyeler/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/belediyeler/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/belediyeler/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/belediyeler/</guid>
       <description>Proje bütçenizi kurum birim fiyatları ile belirleyin. Piyasa birim fiyatları ile karşılaştırmalar yaparak keşif tutarını hassas biçimde belirleyin. Proje teknik şartnamesi, mahal listeleri, keşif tablolarını hazırlayın.</description>
     </item>
     <item>
       <title>Eğitim Kurumları</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/egitim_kurumlari/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/egitim_kurumlari/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/egitim_kurumlari/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/egitim_kurumlari/</guid>
       <description>İnşaat yatırımlarınız için bütçe hazırlayın, fiyatları değerlendirerek uygun malzeme ve yapım yöntemi seçimlerini yapın.</description>
     </item>
     <item>
       <title>İhaleciler</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/ihaleciler/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/ihaleciler/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/ihaleciler/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/ihaleciler/</guid>
       <description>Hangi tür projeler nerede, ne kadar bütçe ile tamamlanır. Bölgelere göre malzeme, işçilik, makine-ekipman fiyatları tedarik süreleri, alternatifler, karşılaştırmalı analizler ve daha fazlası&amp;hellip;</description>
     </item>
     <item>
       <title>İnşaat Firmaları</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/insaat-firmalari/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/insaat-firmalari/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/insaat-firmalari/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/insaat-firmalari/</guid>
       <description>Proje sahiplerine tekliflerinizi gönderin, mevcut projeleriniz için malzeme, işçilik, makine-ekipman kaynakları için en uygun fiyatları bulun.</description>
     </item>
     <item>
       <title>Kamu Kurumları</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/kamu-kurumlari/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/kamu-kurumlari/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/kamu-kurumlari/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/kamu-kurumlari/</guid>
       <description>Proje bütçenizi kurum birim fiyatları ile belirleyin. Piyasa birim fiyatları ile karşılaştırmalar yaparak keşif tutarını hassas biçimde belirleyin. Proje teknik şartnamesi, mahal listeleri, keşif tablolarını hazırlayın.</description>
     </item>
     <item>
       <title>Mimarlar, Mühendisler</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/mimarlar-muhendisler/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/mimarlar-muhendisler/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/mimarlar-muhendisler/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/mimarlar-muhendisler/</guid>
       <description>Proje bütçesini belirleyin. Projesine uygun seçtiğiniz malzemeler için güncel piyasa fiyatlarını kontrol edin, alternatif malzeme ve yapım yöntemlerini değerlendirin.</description>
     </item>
     <item>
       <title>Sanayiciler</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/sanayiciler/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/sanayiciler/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/sanayiciler/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/sanayiciler/</guid>
       <description>İhracat kapasitesini artırmak için fabrikamı genişletmek için ne kadar bütçe ayırmalıyım? Çatıya güneş paneli koymanın maliyeti ne kadar? Karşılaştırmalı teklif analizleri, yüklenici seçimi değerlendirme tabloları, sözleşme taslağı hazırlama, iş programı ve nakit akış tablosu ve daha fazlası&amp;hellip;</description>
     </item>
     <item>
       <title>Yatırımcılar</title>
-      <link>http://localhost:41562/tr/posts/recent-posts/yatirimcilar/</link>
+      <link>http://localhost:32816/tr/posts/recent-posts/yatirimcilar/</link>
       <pubDate>Sun, 02 Jan 2022 08:00:30 +0300</pubDate>
-      <guid>http://localhost:41562/tr/posts/recent-posts/yatirimcilar/</guid>
+      <guid>http://localhost:32816/tr/posts/recent-posts/yatirimcilar/</guid>
       <description>Hangi tür projeleri nerede, ne kadar bütçe ile tamamlayabilirsiniz. Bölgelere göre malzeme, işçilik, makine-ekipman fiyatları tedarik süreleri, alternatifler, karşılaştırmalı analizler ve daha fazlası.</description>
     </item>
   </channel>

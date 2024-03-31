@@ -1,6 +1,6 @@
 
 publishDir: "docs"
-baseURL: https://maliyetanaliz.com
+baseURL: https://maliyetanaliz.com/tr/
 
 languageCode: en-us
 title: "MaliyetAnaliz"
