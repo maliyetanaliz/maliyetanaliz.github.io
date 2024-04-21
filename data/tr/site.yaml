@@ -1,10 +1,9 @@
 enableEmoji: true
 # Copyright Notice
-copyright: © 2022 Copyright.
+copyright: © 2006-2024 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "Content provided by MaliyetAnaliz. All rights reserved."
-
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: MaliyetAnaliz, doğru hesap, doğru adres.
@@ -15,8 +14,6 @@ description: MaliyetAnaliz, doğru hesap, doğru adres.
 # - name: Anasayfa
 #   url: https://maliyetanaliz.com/
 
-
-
 # Specify OpenGraph Headers
 openGraph:
   title: MaliyetAnaliz.com
@@ -25,13 +22,11 @@ openGraph:
   image: /images/site/maliyetanaliz_icon.png
   url: https://maliyetanaliz.com/tr
 
-
-
 params:
   # If you want to use different country flag for a language, specify them here.
   flagOverwrites:
-  - languageCode: en
-    countryCode: us
+    - languageCode: en
+      countryCode: us
 
   background:
     image: /images/site/intro-1.jpg
